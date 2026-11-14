@@ -1,6 +1,6 @@
 ### **General Aviation & Fighter Jet Checklists**
 
-Quick-action procedures for light single-engine aircraft (**e.g. Cessna 172**) and supersonic fighter jets (**F-16 Fighting Falcon**).
+Quick-action procedures for light single-engine aircraft (**e.g. Cessna 172**) and supersonic fighter jets (**e.g. F-16 Fighting Falcon**).
 
 ---
 
@@ -29,7 +29,7 @@ Quick-action procedures for light single-engine aircraft (**e.g. Cessna 172**) a
 
 ---
 
-### **Part 2: F-16 Fighting Falcon (Fighter Jet)**
+### **Part 2: Fighter Jet**
 
 #### **1. Preflight & Line-Up**
 * **Parking Brake:** Verify **ENGAGED** (`Spacebar`).
