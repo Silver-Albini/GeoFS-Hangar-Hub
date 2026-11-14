@@ -1,10 +1,10 @@
-# Commercial Airliner Checklists (e.g.Boeing 737 & Airbus A320)
+### **Commercial Airliner Checklists (e.g. Boeing 737 & Airbus A320)**
 
 Use this step-by-step checklist for realistic commercial flights in GeoFS, from parking gate setup to final shutdown.
 
 ---
 
-# 1. Preflight & Startup (At the Gate)
+### **1. Preflight & Startup (At the Gate)**
 
 * **Aircraft & Livery:** Select your airliner (e.g., Boeing 737-800 or Airbus A320) and load your desired airline livery.
 * **Parking Brake:** Verify **ENGAGED** (`Spacebar`).
@@ -14,7 +14,7 @@ Use this step-by-step checklist for realistic commercial flights in GeoFS, from 
 
 ---
 
-# 2. Taxi to Runway
+### **2. Taxi to Runway**
 
 * **Parking Brake:** **RELEASE** (`Spacebar`).
 * **Throttle:** Increase smoothly to **20–25%** (`Page Up` / `+`).
@@ -24,7 +24,7 @@ Use this step-by-step checklist for realistic commercial flights in GeoFS, from 
 
 ---
 
-# 3. Before Takeoff & Line-Up
+### **3. Before Takeoff & Line-Up**
 
 * **Flaps:** Set to **Takeoff position (1–2 notches / ~5°–15°)** (`]`).
 * **Spoilers / Airbrakes:** Verify **DISARMED / RETRACTED** (`B`).
@@ -33,7 +33,7 @@ Use this step-by-step checklist for realistic commercial flights in GeoFS, from 
 
 ---
 
-# 4. Takeoff & Initial Climbs
+### **4. Takeoff & Initial Climb**
 
 * **Brakes:** **RELEASE** (`Spacebar`).
 * **Throttle:** Advance smoothly to **100% TO/GA** (`9` or `Page Up`).
@@ -44,7 +44,7 @@ Use this step-by-step checklist for realistic commercial flights in GeoFS, from 
 
 ---
 
-# 5. Cruise
+### **5. Cruise**
 
 * **Altitude:** Level off at cruise altitude (typically **30,000–38,000 ft**).
 * **Speed:** Maintain **280–310 knots IAS** (around Mach 0.78–0.80).
@@ -52,7 +52,7 @@ Use this step-by-step checklist for realistic commercial flights in GeoFS, from 
 
 ---
 
-# 6. Descent & Approach
+### **6. Descent & Approach**
 
 * **Descent:** Reduce throttle to **40–50%** and set Autopilot Vertical Speed (`V/S`) to **-1,500 to -2,000 ft/min**.
 * **Below 10,000 ft:** Slow down to **250 knots** or less.
@@ -65,7 +65,7 @@ Use this step-by-step checklist for realistic commercial flights in GeoFS, from 
 
 ---
 
-# 7. Landing & Shutdown
+### **7. Landing & Shutdown**
 
 * **Disengage Autopilot:** Turn off **AP** at **500–1,000 ft AGL** for manual flare.
 * **Flare:** At **30–50 ft** above the runway, reduce throttle to **IDLE (`0`)** and gently raise the nose by **3°–5°**.
