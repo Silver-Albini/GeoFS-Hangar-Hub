@@ -10,7 +10,7 @@ Welcome to the **GeoFS Hangar Hub**—a structured collection of step-by-step ai
 | :--- | :--- | :--- |
 | **Airliner Checklists** | [airliner-checklists.md](airliner-checklists.md) | Complete Preflight, Takeoff, Cruise, and Landing checklists for the Boeing 737 & Airbus A320. |
 | **GA & Fighter Checklists** | [ga-fighter-checklists.md](ga-fighter-checklists.md) | Quick-action procedures for General Aviation (Cessna 172) and Fighter Jets (F-16). |
-| **Best Liveries Showcase** | [best-liveries.md](best-liveries.md) | Curated list of realistic airline liveries and how to load them with LiverySelector. |
+| **Best Liveries Showcase** | [geofs-official-aircraft-liveries.md](geofs-official-aircraft-liveries.md) and  | Curated list of realistic airline liveries and how to load them with LiverySelector. |
 | **Community Aircraft Guide** | [community-aircraft.md](community-aircraft.md) | Top-rated community-built planes and how to get the best flight experience with them. |
 
 ---
