@@ -52,10 +52,9 @@ Quick-action procedures for light single-engine aircraft (**e.g. Cessna 172**) a
 * **Gear Down:** Below **250 knots**, lower landing gear (`G`) and retract airbrakes (`B`) if speed drops too fast.
 * **Final Approach:** Maintain a **11°–13° Angle of Attack (AoA)** at **145–155 knots**, controlling your descent rate primarily with the throttle.
 * **Touchdown:** Touch down smoothly on the main gear, gently lower the nosewheel, deploy airbrakes (`B`), and apply wheel brakes (`Spacebar`) below **100 knots**.
-
 ---
 
 <div align="center">
-  <sub>GeoFS Hangar Hub &bull; Maintained by Silver-Albini</sub><br>
+  <sub>GeoFS Hangar Hub &bull; Maintained by <a href="https://github.com/Silver-Albini">Silver-Albini</a></sub><br>
   <sub>Not officially affiliated with GeoFS.</sub>
 </div>
