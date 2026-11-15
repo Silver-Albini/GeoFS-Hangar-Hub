@@ -19,10 +19,9 @@ Welcome to the **GeoFS Hangar Hub**—a structured collection of step-by-step ai
 
 1. **Before Your Flight:** Check the **Best Liveries** or **Community Aircraft** guides to set up your plane.
 2. **During Your Flight:** Keep the matching **Checklist** open on a second tab or screen to fly realistic procedures from startup to shutdown.
-
 ---
 
 <div align="center">
-  <sub>GeoFS Hangar Hub &bull; Maintained by Silver-Albini</sub><br>
+  <sub>GeoFS Hangar Hub &bull; Maintained by <a href="https://github.com/Silver-Albini">Silver-Albini</a></sub><br>
   <sub>Not officially affiliated with GeoFS.</sub>
 </div>
