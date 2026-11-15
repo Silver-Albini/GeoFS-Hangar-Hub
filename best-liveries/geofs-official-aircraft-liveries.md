@@ -70,3 +70,10 @@ A comprehensive guide to custom liveries, paint schemes, and recommended setups 
 | **Goat Airchair** | Minimalist White Wing | Ultralight open-frame glider for slow scenic ridge flights. |
 | **Major Tom (Hot Air Balloon)** | Rainbow Stripes, Classic Checkered | Peaceful drifting over landmarks with vibrant balloon patterns. |
 | **Citroën 2CV** | Classic French Blue, Yellow/Black Charleston | Iconic vintage ground car—perfect for exploring airports by road! |
+
+---
+
+<div align="center">
+  <sub>GeoFS Hangar Hub &bull; Maintained by Silver-Albini</sub><br>
+  <sub>Not officially affiliated with GeoFS.</sub>
+</div>
