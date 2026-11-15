@@ -72,10 +72,9 @@ Use this step-by-step checklist for realistic commercial flights in GeoFS, from 
 * **Touchdown:** Once main wheels touch down, deploy spoilers (`B`) and engage reverse thrust (`-` / `Page Down`).
 * **Braking:** Apply wheel brakes (`Spacebar`) below **80 knots** and vacate the runway onto a taxiway.
 * **Shutdown:** Taxi to the gate, engage parking brake (`Spacebar`), retract flaps (`[`), and set throttle to **0%**.
-
 ---
 
 <div align="center">
-  <sub>GeoFS Hangar Hub &bull; Maintained by Silver-Albini</sub><br>
+  <sub>GeoFS Hangar Hub &bull; Maintained by <a href="https://github.com/Silver-Albini">Silver-Albini</a></sub><br>
   <sub>Not officially affiliated with GeoFS.</sub>
 </div>
