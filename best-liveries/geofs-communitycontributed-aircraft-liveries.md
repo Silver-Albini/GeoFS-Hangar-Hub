@@ -113,10 +113,9 @@ A complete catalog of **71 community-built aircraft and specialty vehicles** ava
 | **Space Shuttle Atlantis** | NASA Orbiter White/Black Thermal Tiles | Re-entry spaceplane glider—ideal for high-altitude steep dead-stick landings. |
 | **UTVA 75** | Yugoslav / Serbian Air Force Trainer | Rugged two-seat piston military trainer with bubble canopy visibility. |
 | **Van's RV** | Bare Metal / Racing Stripes | Popular homebuilt aerobatic sport cruiser with responsive stick feel. |
-
 ---
 
 <div align="center">
-  <sub>GeoFS Hangar Hub &bull; Maintained by Silver-Albini</sub><br>
+  <sub>GeoFS Hangar Hub &bull; Maintained by <a href="https://github.com/Silver-Albini">Silver-Albini</a></sub><br>
   <sub>Not officially affiliated with GeoFS.</sub>
 </div>
