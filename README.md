@@ -23,5 +23,6 @@ Welcome to the **GeoFS Hangar Hub**—a structured collection of step-by-step ai
 ---
 
 <div align="center">
-  <sub>Part of the GeoFS Community Collection &bull; Created by <a href="https://github.com/Silver-Albini">Silver-Albini</a></sub>
+  <sub>GeoFS Hangar Hub &bull; Maintained by Silver-Albini</sub><br>
+  <sub>Not officially affiliated with GeoFS.</sub>
 </div>
